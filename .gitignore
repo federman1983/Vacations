@@ -1,0 +1,19 @@
+# Python / Server
+Server/venv/
+Server/__pycache__/
+Server/**/*.pyc
+Server/.env
+Server/instance/
+Server/*.log
+Server/uploads/
+
+# Node / Client
+Client/node_modules/
+Client/dist/
+Client/build/
+Client/.env
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
